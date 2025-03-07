@@ -1,6 +1,6 @@
 # Repo para EIEC - DevOps - UNIR
 
-Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+Este repositorio a cambiado el idioma en pantalla a ingles Katherine
 
 ---
 
